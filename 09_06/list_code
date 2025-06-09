@@ -1,0 +1,69 @@
+# Create a simple console-based task manager where users can:
+
+# Add new tasks to a list
+
+# Remove completed tasks
+
+# View all tasks
+
+# Search for specific tasks
+
+# Sample Features:
+# Store tasks in a Python list.
+
+# Use loops and conditionals to manipulate the list (adding/removing tasks).
+
+# Allow users to mark tasks as "complete" and remove them from the list.
+
+# Optionally, add priority levels using nested lists or dictionaries.
+
+tasks = []
+
+def add_task(task):
+    tasks.append(task)
+    print("task addded successfully")
+
+def remove_task(task):
+    if task in tasks:
+        tasks.remove(task)
+        print("task removed")
+    else:
+        print("task is not in list")
+
+def view_task():
+    if tasks:
+        for i in tasks:
+            print(i)
+
+def search_task(task):
+    if task in tasks:
+        print("taskk presented")
+    else:
+        print("task not presented")
+
+while True:
+    print("\nTask Manager Options:")
+    print("1. Add Task")
+    print("2. Remove Task")
+    print("3. View Tasks")
+    print("4. Search Task")
+    print("5. Exit")
+
+    choice = input("Choose an option (1-5): ")
+
+    if choice == "1":
+        task_name = input("Enter task name: ")
+        add_task(task_name)
+    elif choice == "2":
+        task_name = input("Enter task to remove: ")
+        remove_task(task_name)
+    elif choice == "3":
+        view_task()
+    elif choice == "4":
+        task_name = input("Enter task to search: ")
+        search_task(task_name)
+    elif choice == "5":
+        print("Exiting Task Managerr")
+        break
+    else:
+        print("Invalid choice!.")
