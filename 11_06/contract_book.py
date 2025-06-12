@@ -19,8 +19,12 @@ def add_details():
         }
 
 def remove_details():
-    label = input("enter label to delete: ")
-    contact_book[label].pop()
+    label = input("Enter label to delete: ")
+    if label in contact_book:
+        del contact_book[label]
+        print(f"Contact {label} removed successfully.")
+    else:
+        print(f"Contact {label} not found.")
 
 def view_details():
     for i,j in contact_book.items():
