@@ -44,5 +44,10 @@ class library:
             print("no books in library")
 
     def display_member(self):
-        pass
+        if self.members:
+            print("library members: ")
+            for member in self.members:
+                print(member)
+        else:
+            print("no books in library")
 
