@@ -1,0 +1,78 @@
+# Pandas DataFrame - Practice Exercises
+
+- [Make a Pandas DataFrame with a two-dimensional list | Python](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Python | Creating DataFrame from dict of narray/lists](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Creating Pandas dataframe using list of lists](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Creating a Pandas dataframe using list of tuples](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Create a Pandas DataFrame from List of Dicts](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Python | Convert list of nested dictionary into Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Replace values in Pandas dataframe using regex](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Creating a dataframe from Pandas series](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Construct a DataFrame in Pandas using string data](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Clean the string data in the given Pandas Dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Reindexing in Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Mapping external values to dataframe values in Pandas](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Reshape a pandas DataFrame using stack, unstack and melt method](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Reset Index in Pandas Dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Python | Change column names and row indexes in Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+
+# Pandas DataFrame Rows - Practice Exercise
+
+- [How to iterate over rows in Pandas Dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Different ways to iterate over rows in Pandas Dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Selecting rows in pandas DataFrame based on conditions](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Select any row from a Dataframe using iloc[] and iat[] in Pandas](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Limited rows selection with given column in Pandas | Python](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Drop rows from the dataframe based on certain condition applied on a column](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Insert row at given position in Pandas Dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Create a list from rows in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Create a list from rows in Pandas DataFrame | Set 2](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Ranking Rows of Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Sorting rows in pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Select row with maximum and minimum value in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Get all rows in a Pandas DataFrame containing given substring](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Convert a column to row name/index in Pandas](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [How to randomly select rows from Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+
+# Pandas DataFrame Columns - Practice Exercise
+
+- [Create a pandas column using for loop](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [How to get column names in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [How to rename columns in Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Collapse multiple Columns in Pandas](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Get unique values from a column in Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Conditional operation on Pandas DataFrame columns](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Return the Index label if some condition is satisfied over a column in Pandas Dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Using dictionary to remap values in Pandas DataFrame columns](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Formatting integer column of Dataframe in Pandas](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Create a new column in Pandas DataFrame based on the existing columns](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Python | Creating a Pandas dataframe column based on a given condition](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Split a column in Pandas dataframe and get part of it](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Getting Unique values from a column in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Split a String into columns using regex in pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Getting frequency counts of a columns in Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Change Data Type for one or more columns in Pandas Dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Split a text column into two columns in Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Difference of two columns in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Get the index of maximum value in DataFrame column](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Get the index of minimum value in DataFrame column](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Get n-largest values from a particular column in Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Get n-smallest values from a particular column in Pandas DataFrame](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [How to drop one or multiple columns in Pandas Dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [How to lowercase column names in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Capitalize first letter of a column in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Apply uppercase to a column in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+
+# Pandas Series - Practice Exercise
+
+- [Create a Pandas Series from array](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Creating a Pandas Series from Dictionary](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Creating a Pandas Series from Lists](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Create Pandas Series using NumPy functions](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Access the elements of a Series in Pandas](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+
+# Pandas Date and Time - Practice Exercise
+
+- [Pandas | Basic of Time Series Manipulation](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Using Timedelta and Period to create DateTime based indexes in Pandas](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
+- [Convert the column type from string to datetime format in Pandas dataframe](https://www.geeksforgeeks.org/python/pandas-practice-excercises-questions-and-solutions/)
